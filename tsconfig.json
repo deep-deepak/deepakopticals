@@ -27,7 +27,8 @@
     "next-env.d.ts",
     "**/*.ts",
     "**/*.tsx",
-    "component/Header.jsx"
+    "component/Header.jsx",
+    "component/HeroSection.jsx"
   ],
   "exclude": [
     "node_modules"
